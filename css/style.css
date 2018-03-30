@@ -296,9 +296,22 @@ p #contactWord {
     box-shadow: 2px 2px 20px #808080;
 }
 
-#codepen-section p {
+.codepen-title {
+    padding: 10px 0 0 11px;
+}
+
+#last {
     margin-top: 40px;
     text-align: center;
+}
+
+#last a {
+    color: #262626;
+    font-weight: bold;
+}
+
+#last a:hover {
+    text-decoration: none;
 }
 
 /* CONTACT - MAP  */
