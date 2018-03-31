@@ -1,4 +1,4 @@
 #Files to ignore
 
-.vscode
-SSL/
+*.vscode
+*SSL/
